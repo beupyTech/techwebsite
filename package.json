@@ -1,0 +1,34 @@
+{
+  "name": "tech",
+  "version": "1.0.0",
+  "description": "BeupyTech is a product by Beupy. BeupyTech website represent Beupy Website supports SEO.",
+  "main": "index.js",
+  "scripts": {
+    "deploy": "gh-pages -d beupyWeb"
+  },
+  "keywords": [
+    "BeupyTech",
+    "beupy",
+    "tech",
+    "Beupy",
+    "Tech",
+    "BEUPYTECH",
+    "BEUPY",
+    "TECH",
+    "beupytech",
+    "beupyTech",
+    "beupy",
+    "Beupy",
+    "BeupyAPI",
+    "beupyAPI",
+    "beupyApi",
+    "boomsearch",
+    "Beupy"
+  ],
+  "author": "Kumar Saurabh",
+  "license": "ISC",
+  "homepage": "https://beupyTech.github.io/techwebsite",
+  "dependencies": {
+    "gh-pages": "^2.0.1"
+  }
+}
